@@ -1,5 +1,4 @@
 # Arknight-Open-Recruitment-Calculator
-
 基于 Nodejs 制作的明日方舟公开招聘计算器
 
 使用方法：在你需要的地方导入 main.js 文件
